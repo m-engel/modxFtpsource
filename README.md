@@ -1,3 +1,8 @@
 # modxFtpsource
+FTP Media Source for MODX, just install and create an new Mediasource
 
-FTP Media Source for MODX
+
+#TODO
+
+- more Testing with diffrent FTP Servers
+
